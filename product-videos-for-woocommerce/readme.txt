@@ -9,11 +9,18 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
+= Overview Video =
+
+[youtube https://www.youtube.com/watch?v=YU9Bt-kC_rY]
+
 = Introduction =
+
+With this <a href="https://www.apigenius.io/software/product-videos-for-woocommerce/" target="_blank">woocommerce product featured video plugin</a> you can display product videos in the featured media area or in a custom product tab.  What sets this plugin apart is the ability to automate the process of finding and embedding videos of all the products you sell.  Instantly search and embed videos from all the top media websites like YouTube, Facebook, Vimeo and Daily Motion.
 
 Videos provide a Huge boost in virtually every imaginable eCommerce Key Performance Indicator like average time on page, conversion rates, average cart value, customer engagement and countless others. They will also give you an advantage over competitors in organic search.
 
 <strong>Auto Search and Embed</strong>: This plugin is a game changer because it enables you to <strong>Instantly</strong> and <strong>Automatically</strong> search, find and embed videos of all the products you sell, from all the major media websites.  Sources include YouTube, Facebook, Daily Motion and Vimeo.  It is now possible to find thousands of videos, for thousands of products in a few hours, completely automated, with no needed intervention.
+
 - We use a proprietary algorithm to ensure you get the highest quality, most relevant videos for your products
 - The plugin has powerful filtering options like requiring the brand to be in the title of the videos
 - Search all major media websites at once
@@ -26,10 +33,6 @@ Videos provide a Huge boost in virtually every imaginable eCommerce Key Performa
 
 <strong>Video Custom Tab</strong>: You can also display any number of videos in a custom tab.  Name the tab what ever you want and control what order it show in.
 
-= Overview Video =
-
-[youtube https://www.youtube.com/watch?v=Q4EoUB9Lwb0]
-
 = Free vs. Pro =
 
 All features in the Pro version are also available in the Free version.  Pro plans get more monthly automated searches, but all other features listed below are fully available in the Free version.
@@ -37,60 +40,76 @@ All features in the Pro version are also available in the Free version.  Pro pla
 = Product Featured Video, Custom Tab & Display =
 
 <strong>Product Featured Video</strong>
+
 All embedded videos and video thumbnails can be displayed in the Featured Image Gallery section of the Woocommerce Product Page. Visitors can scroll through and watch videos just like images.
 
 <strong>Product Video Custom Tab</strong>
+
 Plugin options give you the ability to easily create a custom tab with all embedded videos. You can change the name and position it is inserted along with many other powerful configurations.
 
 <strong>No Additional Hosting</strong>
+
 All videos are embedded, not uploaded. No additional hosting space is required. We use just a few custom fields for the video data.
 
 <strong>Better User Experience</strong>
+
 A better user experience generates more loyal customers, more repeat purchases and a greater lifetime customer value.
 
 = Video Search, Manual Entry & Other Features =
 
 <strong>All Major Media Websites</strong>
+
 Instantly search for and embed videos of the products you sell. Search sites like YouTube, Facebook, Vimeo and more.
 
 <strong>Proprietary Algorithm</strong>
+
 Our video search has unmatched accuracy through the utilization of a proprietary algorithm, ensuring you get the highest quality and most relevant product videos.
 
 <strong>Minimal Code</strong>
+
 The plugin is written with a minimal amount of code and only a few custom fields are used for the video data.
 
 <strong>Developer API</strong>
+
 Are you a developer? Would you like to extend the functionality of this Plugin? Or, would you like to developer your own incredible solution? Glad to hear it, check out our Videos API and Partner Program.
 
 <strong>Manual Video Entry</strong>
+
 Do you have some products you want to manually enter videos for? No problem. With this plugin it is a breeze.
 
 <strong>Powerful Filtering Options</strong>
+
 For increased accuracy we have included powerful options like requiring the Brand, Part Number or Sku to be in the video title.
 
 <strong>No Additional API Keys Needed</strong>
+
 You will Not need an additional YouTube, or any other website's, API key. You will be able to get videos from all networks immediately.
 
 <strong>100% Automated</strong>
+
 You can set an automation to run once, daily, weekly or monthly to embed videos and/or search for newly published ones.
 
 = Some Key eCommerce Performance Benefits =
 
 <strong>Improved KPI's</strong>
+
 Videos are shown to improve nearly every Key Performance Indicator like Average Time on Site, Bounce Rate & Average Page Views. This also provides indirect SEO benefits.
 
 <strong>Better Rankings</strong>
+
 Google owns YouTube and they have a financial incentive to rank product pages higher that feature a YouTube video.
 
 <strong>Increased Conversion Rates</strong>
+
 Studies show that videos on a product page can increase conversion rates by 80% or more.
 
 <strong>Partner Program</strong>
+
 Do you know shop owners that can use this plugin? Our partner program pays you ongoing commissions for every referral.
 
 = How To Video =
 
-[youtube https://www.youtube.com/watch?v=sXB3XSAUOgo]
+[youtube https://www.youtube.com/watch?v=tRFJHNK3gIc]
 
 == Installation ==
 
